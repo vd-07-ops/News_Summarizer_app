@@ -6,6 +6,8 @@ The application takes a full news article as input and generates a concise summa
 
 ---
 
+## Use this public gradio link to access the app -> https://f8dbe265e33dda574b.gradio.live
+
 ## Model Choice
 
 The project uses:
