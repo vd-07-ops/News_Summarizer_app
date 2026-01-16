@@ -44,3 +44,6 @@ Create a virtual environment (recommended), then install dependencies:
 ```bash
 pip install torch transformers gradio datasets sentencepiece
 
+
+```
+Run task.ipynb file
